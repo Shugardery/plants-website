@@ -1,5 +1,5 @@
 # Landing Page de Plantas
-Página con temática de "Plantas", con el objetivo de subir más proyectos y practicar las habilidades en desarrollo web :)
+Página con temática de "Plantas". Este es uno más de los muchos proyectos que se vendrán para practicar las habilidades en desarrollo web :)
 
 # Enlace del Proyecto Desplegado
 
